@@ -157,17 +157,27 @@ Content-type: text/html; charset=UTF-8
   <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-  <!-- 6. Cabeçalho e menu -->
+  <!-- 6. Cabeçalho e Menu Moderno -->
   <header>
-    <h1>🏋️ FitBoa Viagem</h1>
-    <nav>
-      <a href="?pagina=inicio">Início</a>
-      <a href="?pagina=planos">Planos</a>
-      <a href="?pagina=cadastrar">Cadastrar Aluno</a>
-      <a href="?pagina=treinos">Adicionar Treino</a>
-      <a href="?pagina=alunos">Alunos</a>
-      <a href="?formato=json">JSON</a>
-    </nav>
+    <div class="header-container">
+      <a href="?pagina=inicio" class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">...</svg>
+        </div>
+        <div class="brand-text">
+          <h1>FitBoa Viagem</h1>
+          <span>Gestão Web Orientada a Objetos</span>
+        </div>
+      </a>
+      <nav>
+        <a href="?pagina=inicio">Início</a>
+        <a href="?pagina=planos" class="active">Planos</a>
+        <a href="?pagina=cadastrar">Cadastrar Aluno</a>
+        <a href="?pagina=treinos">Adicionar Treino</a>
+        <a href="?pagina=alunos">Alunos</a>
+        <a href="?formato=json" class="nav-json">JSON</a>
+      </nav>
+    </div>
   </header>
 
   <main>
@@ -229,17 +239,27 @@ Content-type: text/html; charset=UTF-8
   <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-  <!-- 6. Cabeçalho e menu -->
+  <!-- 6. Cabeçalho e Menu Moderno -->
   <header>
-    <h1>🏋️ FitBoa Viagem</h1>
-    <nav>
-      <a href="?pagina=inicio">Início</a>
-      <a href="?pagina=planos">Planos</a>
-      <a href="?pagina=cadastrar">Cadastrar Aluno</a>
-      <a href="?pagina=treinos">Adicionar Treino</a>
-      <a href="?pagina=alunos">Alunos</a>
-      <a href="?formato=json">JSON</a>
-    </nav>
+    <div class="header-container">
+      <a href="?pagina=inicio" class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">...</svg>
+        </div>
+        <div class="brand-text">
+          <h1>FitBoa Viagem</h1>
+          <span>Gestão Web Orientada a Objetos</span>
+        </div>
+      </a>
+      <nav>
+        <a href="?pagina=inicio">Início</a>
+        <a href="?pagina=planos" class="active">Planos</a>
+        <a href="?pagina=cadastrar">Cadastrar Aluno</a>
+        <a href="?pagina=treinos">Adicionar Treino</a>
+        <a href="?pagina=alunos">Alunos</a>
+        <a href="?formato=json" class="nav-json">JSON</a>
+      </nav>
+    </div>
   </header>
 
   <main>
