@@ -4,7 +4,7 @@
 
 **Autor(a):** Ivamilton  
 **Tema:** 07 — Academia (Plano: mensal, trimestral, anual | Aluno tem treinos)  
-**Vídeo:** _(Adicione aqui o link do vídeo gravado no YouTube ou Google Drive)_  
+**Vídeo:** _(https://youtu.be/43gzflItFKs?is=t4g9gQZS0zFsAa07)_  
 **Repositório:** [https://github.com/Ivamilton/pweb1-trabalho-oo](https://github.com/Ivamilton/pweb1-trabalho-oo)
 
 ---
